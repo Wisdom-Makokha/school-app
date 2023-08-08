@@ -16,8 +16,5 @@ export default{
 
 <style scoped>
 
-.home-root{
-   
-   
-}
+
 </style>
